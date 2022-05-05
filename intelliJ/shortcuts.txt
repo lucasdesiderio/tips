@@ -1,0 +1,14 @@
+CTRL + SHIFT + F = find whole project by text
+CTRL + F6 = change method signature
+
+CTRL + ALT + ... extract ...
+M = method
+P = parameter
+V = variable
+
+CTRL + ALT + arrow = browse forward/backward
+CTRL + B = access method
+CTRL + ALT + B = access implementations
+
+SHIFT (2x) = find Classes
+CTRL + ALT + A = find Actions

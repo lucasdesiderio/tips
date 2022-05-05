@@ -1,0 +1,10 @@
+ArchUnit
+Bucket4j
+Resilience4j
+Swagger
+Redisson
+Lombok
+Feign
+Testcontainers
+Microstreams
+Gatling
