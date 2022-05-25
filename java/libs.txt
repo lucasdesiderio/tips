@@ -8,3 +8,4 @@ Feign
 Testcontainers
 Microstreams
 Gatling
+Apache StringUtils
